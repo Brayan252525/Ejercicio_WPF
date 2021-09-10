@@ -1,0 +1,40 @@
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\ejemplo.exe
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\ejemplo.deps.json
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\ejemplo.runtimeconfig.json
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\ejemplo.runtimeconfig.dev.json
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\ejemplo.dll
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\ejemplo.pdb
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\ejemplo.csproj.AssemblyReference.cache
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\ejemplo_MarkupCompile.cache
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\ejemplo_MarkupCompile.lref
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\ejemplo.g.resources
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\ejemplo.AssemblyInfoInputs.cache
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\ejemplo.AssemblyInfo.cs
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\ejemplo.dll
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\ejemplo.pdb
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\ejemplo.genruntimeconfig.cache
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\Ejercicio en WPF\WpfApp1\bin\Debug\netcoreapp3.1\ejemplo.exe
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\Ejercicio en WPF\WpfApp1\bin\Debug\netcoreapp3.1\ejemplo.deps.json
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\Ejercicio en WPF\WpfApp1\bin\Debug\netcoreapp3.1\ejemplo.runtimeconfig.json
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\Ejercicio en WPF\WpfApp1\bin\Debug\netcoreapp3.1\ejemplo.runtimeconfig.dev.json
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\Ejercicio en WPF\WpfApp1\bin\Debug\netcoreapp3.1\ejemplo.dll
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\Ejercicio en WPF\WpfApp1\bin\Debug\netcoreapp3.1\ejemplo.pdb
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\Ejercicio en WPF\WpfApp1\obj\Debug\netcoreapp3.1\ejemplo.csproj.AssemblyReference.cache
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\Ejercicio en WPF\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\Ejercicio en WPF\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\Ejercicio en WPF\WpfApp1\obj\Debug\netcoreapp3.1\ejemplo_MarkupCompile.cache
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\Ejercicio en WPF\WpfApp1\obj\Debug\netcoreapp3.1\ejemplo_MarkupCompile.lref
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\Ejercicio en WPF\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\Ejercicio en WPF\WpfApp1\obj\Debug\netcoreapp3.1\ejemplo.g.resources
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\Ejercicio en WPF\WpfApp1\obj\Debug\netcoreapp3.1\ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\Ejercicio en WPF\WpfApp1\obj\Debug\netcoreapp3.1\ejemplo.AssemblyInfoInputs.cache
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\Ejercicio en WPF\WpfApp1\obj\Debug\netcoreapp3.1\ejemplo.AssemblyInfo.cs
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\Ejercicio en WPF\WpfApp1\obj\Debug\netcoreapp3.1\ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\Ejercicio en WPF\WpfApp1\obj\Debug\netcoreapp3.1\ejemplo.dll
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\Ejercicio en WPF\WpfApp1\obj\Debug\netcoreapp3.1\ejemplo.pdb
+C:\Users\Roberto\Documents\Desarrollo de Aplicaciones con Software Propietario DSP02T\Ejercicio en WPF\WpfApp1\obj\Debug\netcoreapp3.1\ejemplo.genruntimeconfig.cache
